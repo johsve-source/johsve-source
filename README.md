@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?johsve-source&color=lightgrey)
+
 - 📍 Huskvarna, Jönköpings Län
 - 📧 Johsve18@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
