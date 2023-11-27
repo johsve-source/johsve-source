@@ -1,4 +1,3 @@
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johsve-source&show_icons=true&theme=transparent)
 
 - 📍 Huskvarna, Jönköpings Län
@@ -26,4 +25,3 @@ CI/CD
 ## Certificates
 
 <img src="https://images.credly.com/images/7f592a1d-f248-4ca5-a680-bb2619e19f90/image.png" alt="Custom Icon" width="92" height="92">
-</div>
