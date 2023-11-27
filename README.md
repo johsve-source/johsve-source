@@ -22,7 +22,7 @@
 - Web Accessibility (a11y)
 - CI/CD
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs,git)](https://skillicons.dev) <br>
 
 ## Certificates
 
