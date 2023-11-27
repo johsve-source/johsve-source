@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johsve-source)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johsve-source&show_icons=true&theme=transparent)
 
 - 📍 Huskvarna, Jönköpings Län
 - 📧 Johsve18@icloud.com
