@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?johsve-source&color=lightgrey)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johsve-source)]
 
 - 📍 Huskvarna, Jönköpings Län
 - 📧 Johsve18@icloud.com
