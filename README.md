@@ -1,3 +1,4 @@
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johsve-source&show_icons=true&theme=transparent)
 
 - 📍 Huskvarna, Jönköpings Län
@@ -20,13 +21,10 @@
 - Web Accessibility (a11y)
 - CI/CD
 
-## Frontend Developer, System Development
-
-- HTML, CSS: Semantic HTML, CSS Syntax, Git version control, flexbox & CSS grid, responsiveness
-- Agile project methods: Github, SCRUM, agile web development
-- JavaScript: ECMAScript, Publishing web pages, Code structure, DOM manipulation, External services
-- React: SPA development, SASS, React JS, State Management, Routing
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask)](https://skillicons.dev)
 
 ## Certificates
 
-- JSE 40-01, Cisco Network Academy
+<img src="https://images.credly.com/images/7f592a1d-f248-4ca5-a680-bb2619e19f90/image.png" alt="Custom Icon" width="48" height="48">
+
+</div>
