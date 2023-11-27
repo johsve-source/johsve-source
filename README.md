@@ -7,7 +7,7 @@
 💼 **LinkedIn:** [Johan Svensson](https://www.linkedin.com/in/johan-svensson-427a3323b/) <br>
 🌐 **GitHub:** [johsve-source](https://github.com/johsve-source) <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs,git)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs,git,expressjs,mongodb)](https://skillicons.dev) <br>
 
 ## Certificates
 
