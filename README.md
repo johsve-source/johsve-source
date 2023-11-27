@@ -18,7 +18,7 @@
 - Web Accessibility (a11y)
 - CI/CD
 
-### Frontend Developer, System Development
+## Frontend Developer, System Development
 
 - HTML, CSS: Semantic HTML, CSS Syntax, Git version control, flexbox & CSS grid, responsiveness
 - Agile project methods: Github, SCRUM, agile web development
