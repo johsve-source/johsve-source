@@ -1,16 +1,10 @@
 <div align="center">
-
-# Johan Svensson
-
+# Johan Svensson <br>
+  
 📍 **Location:** Huskvarna, Jönköpings Län <br>
 📧 **Email:** Johsve18@icloud.com <br>
 💼 **LinkedIn:** [Johan Svensson](https://www.linkedin.com/in/johan-svensson-427a3323b/) <br>
-🌐 **GitHub:** [johsve-source](https://github.com/johsve-source) <br>
+🌐 **GitHub:** [johsve-source](https://github.com/johsve-source) <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs,git,expressjs,mongodb)](https://skillicons.dev) <br>
-
-## Certificates
-
-<img src="https://images.credly.com/images/7f592a1d-f248-4ca5-a680-bb2619e19f90/image.png" alt="Certificate Icon" width="92" height="92">
-
 </div>
