@@ -8,6 +8,4 @@
 🌐 **GitHub:** [johsve-source](https://github.com/johsve-source) <br><br>
 
 <p> <img src="https://komarev.com/ghpvc/?username=johsve-source&label=Profile%20views&color=b9b9b9&style=flat-square" alt="johsve-source" /> </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,flask,nodejs,git,expressjs,mongodb)](https://skillicons.dev)
 </div>
