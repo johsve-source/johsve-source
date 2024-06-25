@@ -3,7 +3,8 @@
 ## Contributed To ...
 </div>
 
-- [**Traino App:**](https://www.linkedin.com/in/johan-svensson-427a3323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) A comprehensive fitness platform for personal trainers and athletes to connect, book sessions, and manage your finances. Enables fast payouts and business management within an 1 hour.
+- [**Traino App**](https://traino.nu): A comprehensive fitness platform for personal trainers and athletes to connect, book sessions, and manage your finances. Enables fast payouts and business management within an 1 hour.
+***Sign-up for the newsletter to get early access***
 <div align="center">
 
 ## Contact
