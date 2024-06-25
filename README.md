@@ -1,6 +1,6 @@
 <div align="center">
   
-## Projects I Have Contributed To
+## Contributed To ...
 </div>
 
 - **Traino App:** A comprehensive fitness platform for personal trainers and athletes to connect, book sessions, and manage your finances. Enables fast payouts and business management within an 1 hour.
