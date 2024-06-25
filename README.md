@@ -4,11 +4,6 @@
 </div>
 
 - **Traino App:** A comprehensive fitness platform for personal trainers and athletes to connect, book sessions, and manage your finances. Enables fast payouts and business management within an 1 hour.
-
-  ### My Contributions
-  - **Frontend:** Next.js 14, PWA
-  - **Backend:** Stripe (integrated into backend), PHP 8
-  - **Customizations:** Custom Service Worker for quality assurance and performance optimization.
 <div align="center">
 
 ## Contact
