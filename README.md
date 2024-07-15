@@ -1,16 +1,19 @@
 ## Full-Stack Developer | Terminal Enthusiast | Dark Mode Aficionado
 
+Specializing in scalable web applications with Next.js, React, GraphQL, and AWS expertise. Committed to user-centric design and modern web standards.
+
 I craft web experiences with the precision of a perfectly configured development environment. My digital workspace is as finely tuned as my code.
 
-### 🛠 Tech Stack & Tools
+### 🛠 Stack & Tools
 
 - **Frontend:** React, Next.js, Astro, JavaScript (ES6+)
-- **Backend:** Node.js, BunJS, Express
-- **Database:** MongoDB, PostgreSQL, Firebase, GraphQL
+- **Backend:** Node.js, BunJS, Express, GraphQL
+- **Database:** MongoDB, PostgreSQL, Firebase
+- **Cloud:** AWS, GCP <i>(GKE)</i>
 - **DevOps:** Docker, Git, CI/CD
 - **Terminal:** Alacritty + tmux + fish shell
 
-### 🖤 Dark Mode Everything
+### 🖤 Dark Mode
 
 My Alacritty setup reflects my love for dark themes and crisp typography:
 
