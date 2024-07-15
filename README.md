@@ -1,5 +1,3 @@
-# Hello, I'm Johan 👨‍💻
-
 ## Full-Stack Developer | Terminal Enthusiast | Dark Mode Aficionado
 
 I craft web experiences with the precision of a perfectly configured development environment. My digital workspace is as finely tuned as my code.
