@@ -1,8 +1,6 @@
 ## Full-Stack Developer | Terminal Enthusiast | Dark Mode Aficionado
 
-Specializing in scalable web applications with Next.js, React, GraphQL, and AWS expertise. Committed to user-centric design and modern web standards.
-
-I craft web experiences with the precision of a perfectly configured development environment. My digital workspace is as finely tuned as my code.
+<i>I craft web experiences with precision...</i>
 
 ### 🛠 Stack & Tools
 
