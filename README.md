@@ -6,7 +6,7 @@ I craft web experiences with the precision of a perfectly configured development
 
 - **Frontend:** React, Next.js, Astro, JavaScript (ES6+)
 - **Backend:** Node.js, BunJS, Express
-- **Database:** MongoDB, PostgreSQL
+- **Database:** MongoDB, PostgreSQL, Firebase, GraphQL
 - **DevOps:** Docker, Git, CI/CD
 - **Terminal:** Alacritty + tmux + fish shell
 
