@@ -2,7 +2,7 @@
 
 ### 🛠 Stack & Tools
 
-- **Frontend:** React, Next.js, Astro, JavaScript (ES6+)
+- **Frontend:** React & Native, Next.js, Astro, JavaScript (ES6+)
 - **Backend:** Node.js, BunJS, Express, GraphQL
 - **Database:** MongoDB, PostgreSQL, Firebase
 - **Cloud:** AWS, GCP <i>(GKE)</i>
