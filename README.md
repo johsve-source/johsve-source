@@ -2,12 +2,12 @@
 
 ### 🛠 Stack & Tools
 
-- **Frontend:** React & Native, Next.js, Astro, JavaScript (ES6+)
-- **Backend:** Node.js, BunJS, Express, GraphQL
-- **Database:** MongoDB, PostgreSQL, Firebase
-- **Cloud:** AWS, GCP <i>(GKE)</i>
-- **DevOps:** Docker, Git, CI/CD
-- **Terminal:** Alacritty + tmux + fish shell
+- **Frontend:** ⚛️ React & Native, ▲ Next.js, 🚀 Astro, 💛 JavaScript (ES6+)
+- **Backend:** 🟢 Node.js, 🐍 Python, 🐰 BunJS, 🚂 Express, 📊 GraphQL
+- **Database:** 🍃 MongoDB, 🐘 PostgreSQL, 🔥 Firebase, 🐬 MariaDB
+- **Cloud:** ☁️ AWS, ☁️ GCP <i>(GKE)</i>
+- **DevOps:** 🐳 Docker, 🌿 Git, 🔄 CI/CD, ☸️ Kubernetes
+- **Terminal:** ⚡ Alacritty + 📺 tmux + 🐠 fish shell
 
 ### 🖤 Dark Mode
 
