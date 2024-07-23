@@ -1,7 +1,5 @@
 ## Full-Stack Developer | Terminal Enthusiast | Dark Mode Aficionado
 
-<i>I craft web experiences with precision...</i>
-
 ### 🛠 Stack & Tools
 
 - **Frontend:** React, Next.js, Astro, JavaScript (ES6+)
