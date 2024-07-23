@@ -1,4 +1,4 @@
-## Full-Stack Developer | Terminal Enthusiast | Dark Mode Aficionado
+## Full-Stack Developer | I'm using Neovim btw.
 
 ### 🛠 Stack & Tools
 
